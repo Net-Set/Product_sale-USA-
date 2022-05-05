@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+themes.webdevia.com	TRUE	/flooring/	FALSE	1999999999	wp_woocommerce_session_60d8e513e394ef9696c47c20b7105cf3	3836dd4601b2f94519d25b63e299a6ea%7C%7C1651948581%7C%7C1651944981%7C%7C199e80a2850d5902a3765710306733dc
+themes.webdevia.com	TRUE	/flooring/	FALSE	1999999999	wordpress_test_cookie	WP%20Cookie%20check
+themes.webdevia.com	TRUE	/flooring/	FALSE	1999999999	woocommerce_items_in_cart	1
+themes.webdevia.com	TRUE	/flooring/	FALSE	1999999999	woocommerce_cart_hash	cdb6b506cad3fe84df97b103b80ab11f
+

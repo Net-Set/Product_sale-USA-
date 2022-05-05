@@ -1,0 +1,136 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 06 May 2022 00:05:42 at https://themes.webdevia.com/flooring/store-tile/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://themes.webdevia.com/flooring/store-tile/ -O1 "C:\My Web Sites\Architecture LA USA" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:14:21	Warning: 	File not parsed, looks like binary: https://themes.webdevia.com/flooring/store-tile/wp-content/plugins/revslider/public/assets/css/openhand.cur
+00:14:21	Warning: 	File not parsed, looks like binary: https://themes.webdevia.com/flooring/store-tile/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+00:14:22	Error: 	"Not Found" (404) at link https://themes.webdevia.com/flooring/store-tile/wp-content/themes/flooring/css/owl.video.play.png (from https://themes.webdevia.com/flooring/store-tile/wp-content/themes/flooring/css/owl.carousel.css?ver=5.7.6)
+00:14:22	Error: 	"Not Found" (404) at link https://themes.webdevia.com/flooring/store-tile/wp-content/themes/flooring/css/AjaxLoader.gif (from https://themes.webdevia.com/flooring/store-tile/wp-content/themes/flooring/css/owl.theme.css?ver=5.7.6)
+00:14:22	Error: 	"Not Found" (404) at link https://themes.webdevia.com/flooring/store-tile/wp-content/themes/flooring/images/about-us.jpg (from https://themes.webdevia.com/flooring/store-tile/wp-content/themes/flooring/css/app.css?ver=5.7.6)
+00:14:22	Error: 	"Not Found" (404) at link https://themes.webdevia.com/flooring/store-tile/wp-content/themes/flooring/images/contact.png (from https://themes.webdevia.com/flooring/store-tile/wp-content/themes/flooring/css/app.css?ver=5.7.6)
+00:14:22	Error: 	"Not Found" (404) at link https://themes.webdevia.com/flooring/store-tile/wp-content/themes/flooring/images/clients-bg.jpg (from https://themes.webdevia.com/flooring/store-tile/wp-content/themes/flooring/css/app.css?ver=5.7.6)
+00:14:22	Warning: 	Moved Permanently for https://themes.webdevia.com/flooring/store-tile/?p=2931
+00:14:22	Warning: 	File has moved from https://themes.webdevia.com/flooring/store-tile/?p=2931 to https://themes.webdevia.com/flooring/store-tile/about-us/
+00:14:22	Warning: 	Moved Permanently for https://themes.webdevia.com/flooring/store-tile/?p=2988
+00:14:22	Warning: 	File has moved from https://themes.webdevia.com/flooring/store-tile/?p=2988 to https://themes.webdevia.com/flooring/store-tile/services-2/
+00:14:23	Warning: 	Moved Permanently for https://themes.webdevia.com/flooring/store-tile/?p=2241
+00:14:23	Warning: 	File has moved from https://themes.webdevia.com/flooring/store-tile/?p=2241 to https://themes.webdevia.com/flooring/store-tile/doors-repair/
+00:14:23	Warning: 	Moved Permanently for https://themes.webdevia.com/flooring/store-tile/?p=2234
+00:14:23	Warning: 	File has moved from https://themes.webdevia.com/flooring/store-tile/?p=2234 to https://themes.webdevia.com/flooring/store-tile/emergency-door-repair/
+00:14:23	Warning: 	Moved Permanently for https://themes.webdevia.com/flooring/store-tile/?p=2233
+00:14:23	Warning: 	File has moved from https://themes.webdevia.com/flooring/store-tile/?p=2233 to https://themes.webdevia.com/flooring/store-tile/emergency-window-repair/
+00:14:23	Warning: 	Moved Permanently for https://themes.webdevia.com/flooring/store-tile/?p=2243
+00:14:23	Warning: 	File has moved from https://themes.webdevia.com/flooring/store-tile/?p=2243 to https://themes.webdevia.com/flooring/store-tile/glass-aluminum/
+00:14:23	Warning: 	Moved Permanently for https://themes.webdevia.com/flooring/store-tile/?p=2235
+00:14:23	Warning: 	File has moved from https://themes.webdevia.com/flooring/store-tile/?p=2235 to https://themes.webdevia.com/flooring/store-tile/heavy-industry/
+00:14:23	Warning: 	Moved Permanently for https://themes.webdevia.com/flooring/store-tile/?p=2232
+00:14:23	Warning: 	File has moved from https://themes.webdevia.com/flooring/store-tile/?p=2232 to https://themes.webdevia.com/flooring/store-tile/replacing-sliding-patio-doors/
+00:14:23	Warning: 	Moved Permanently for https://themes.webdevia.com/flooring/store-tile/?p=2312
+00:14:23	Warning: 	File has moved from https://themes.webdevia.com/flooring/store-tile/?p=2312 to https://themes.webdevia.com/flooring/store-tile/windows-repair/
+00:14:23	Warning: 	Moved Permanently for https://themes.webdevia.com/flooring/store-tile/?p=3011
+00:14:23	Warning: 	File has moved from https://themes.webdevia.com/flooring/store-tile/?p=3011 to https://themes.webdevia.com/flooring/store-tile/pricing-table/
+00:14:25	Error: 	"Not Found" (404) at link https://themes.webdevia.com/flooring/store-tile/blog/root (from https://themes.webdevia.com/flooring/store-tile/blog/)
+00:15:07	Warning: 	Moved Permanently for https://themes.webdevia.com/flooring/store-tile/?p=20
+00:15:07	Warning: 	File has moved from https://themes.webdevia.com/flooring/store-tile/?p=20 to https://themes.webdevia.com/flooring/store-tile/contact/
+00:15:07	Error: 	"Not Found" (404) at link https://themes.webdevia.com/flooring/store-tile/portfolio/nice-project/feed/ (from https://themes.webdevia.com/flooring/store-tile/portfolio/nice-project/)
+00:15:07	Warning: 	Moved Permanently for https://themes.webdevia.com/flooring/store-tile/?p=638
+00:15:07	Warning: 	File has moved from https://themes.webdevia.com/flooring/store-tile/?p=638 to https://themes.webdevia.com/flooring/store-tile/portfolio/nice-project/
+00:15:07	Error: 	"Not Found" (404) at link https://themes.webdevia.com/flooring/store-tile/portfolio/cool-project/feed/ (from https://themes.webdevia.com/flooring/store-tile/portfolio/cool-project/)
+00:15:07	Warning: 	Moved Permanently for https://themes.webdevia.com/flooring/store-tile/?p=637
+00:15:07	Warning: 	File has moved from https://themes.webdevia.com/flooring/store-tile/?p=637 to https://themes.webdevia.com/flooring/store-tile/portfolio/cool-project/
+00:15:07	Error: 	"Not Found" (404) at link https://themes.webdevia.com/flooring/store-tile/portfolio/awesome-projects/feed/ (from https://themes.webdevia.com/flooring/store-tile/portfolio/awesome-projects/)
+00:15:07	Warning: 	Moved Permanently for https://themes.webdevia.com/flooring/store-tile/?p=634
+00:15:07	Warning: 	File has moved from https://themes.webdevia.com/flooring/store-tile/?p=634 to https://themes.webdevia.com/flooring/store-tile/portfolio/awesome-projects/
+00:15:07	Error: 	"Not Found" (404) at link https://themes.webdevia.com/flooring/store-tile/portfolio/aenean-auctor-laoreet-2/feed/ (from https://themes.webdevia.com/flooring/store-tile/portfolio/aenean-auctor-laoreet-2/)
+00:15:07	Warning: 	Moved Permanently for https://themes.webdevia.com/flooring/store-tile/?p=364
+00:15:07	Warning: 	File has moved from https://themes.webdevia.com/flooring/store-tile/?p=364 to https://themes.webdevia.com/flooring/store-tile/portfolio/aenean-auctor-laoreet-2/
+00:15:07	Error: 	"Not Found" (404) at link https://themes.webdevia.com/flooring/store-tile/portfolio/brandon-smith-2/feed/ (from https://themes.webdevia.com/flooring/store-tile/portfolio/brandon-smith-2/)
+00:15:07	Warning: 	Moved Permanently for https://themes.webdevia.com/flooring/store-tile/?p=363
+00:15:07	Warning: 	File has moved from https://themes.webdevia.com/flooring/store-tile/?p=363 to https://themes.webdevia.com/flooring/store-tile/portfolio/brandon-smith-2/
+00:15:07	Error: 	"Not Found" (404) at link https://themes.webdevia.com/flooring/store-tile/portfolio/morbi-non-sem-a-lacus-porta-3/feed/ (from https://themes.webdevia.com/flooring/store-tile/portfolio/morbi-non-sem-a-lacus-porta-3/)
+00:15:07	Warning: 	Moved Permanently for https://themes.webdevia.com/flooring/store-tile/?p=322
+00:15:07	Warning: 	File has moved from https://themes.webdevia.com/flooring/store-tile/?p=322 to https://themes.webdevia.com/flooring/store-tile/portfolio/morbi-non-sem-a-lacus-porta-3/
+00:15:09	Warning: 	Moved Permanently for https://themes.webdevia.com/flooring/store-tile/?p=3124
+00:15:09	Warning: 	File has moved from https://themes.webdevia.com/flooring/store-tile/?p=3124 to https://themes.webdevia.com/flooring/store-tile/product/jhon-doe-copy/
+00:15:21	Warning: 	Moved Permanently for https://themes.webdevia.com/flooring/store-tile/?p=3123
+00:15:21	Warning: 	File has moved from https://themes.webdevia.com/flooring/store-tile/?p=3123 to https://themes.webdevia.com/flooring/store-tile/product/smoke-gray-long/
+00:15:25	Warning: 	Moved Permanently for https://themes.webdevia.com/flooring/store-tile/?p=3120
+00:15:25	Warning: 	File has moved from https://themes.webdevia.com/flooring/store-tile/?p=3120 to https://themes.webdevia.com/flooring/store-tile/product/bathroom-gray/
+00:15:37	Warning: 	Moved Permanently for https://themes.webdevia.com/flooring/store-tile/?p=3107
+00:15:37	Warning: 	File has moved from https://themes.webdevia.com/flooring/store-tile/?p=3107 to https://themes.webdevia.com/flooring/store-tile/product/smoke-kitchen/
+00:15:43	Warning: 	Moved Permanently for https://themes.webdevia.com/flooring/store-tile/?p=3106
+00:15:43	Warning: 	File has moved from https://themes.webdevia.com/flooring/store-tile/?p=3106 to https://themes.webdevia.com/flooring/store-tile/product/jhon-vladimir-copy-2/
+00:15:48	Warning: 	Moved Permanently for https://themes.webdevia.com/flooring/store-tile/?p=3105
+00:15:48	Warning: 	File has moved from https://themes.webdevia.com/flooring/store-tile/?p=3105 to https://themes.webdevia.com/flooring/store-tile/product/jhon-vladimir-copy/
+00:15:52	Warning: 	Moved Permanently for https://themes.webdevia.com/flooring/store-tile/?p=2904
+00:15:52	Warning: 	File has moved from https://themes.webdevia.com/flooring/store-tile/?p=2904 to https://themes.webdevia.com/flooring/store-tile/product/jhon-doe/
+00:15:57	Warning: 	Moved Permanently for https://themes.webdevia.com/flooring/store-tile/?p=2901
+00:15:57	Warning: 	File has moved from https://themes.webdevia.com/flooring/store-tile/?p=2901 to https://themes.webdevia.com/flooring/store-tile/product/jhon-vladimir/
+00:15:59	Warning: 	Moved Permanently for https://themes.webdevia.com/flooring/store-tile/?p=304
+00:15:59	Warning: 	File has moved from https://themes.webdevia.com/flooring/store-tile/?p=304 to https://themes.webdevia.com/flooring/store-tile/2016/08/28/excepteur-sint-occaecat-cupidatat-non/
+00:15:59	Error: 	"Not Found" (404) at link https://themes.webdevia.com/flooring/store-tile/2016/08/28/excepteur-sint-occaecat-cupidatat-non/root (from https://themes.webdevia.com/flooring/store-tile/2016/08/28/excepteur-sint-occaecat-cupidatat-non/)
+00:15:59	Warning: 	Moved Permanently for https://themes.webdevia.com/flooring/store-tile/?p=2295
+00:15:59	Warning: 	File has moved from https://themes.webdevia.com/flooring/store-tile/?p=2295 to https://themes.webdevia.com/flooring/store-tile/2016/05/09/hello-world-2/
+00:15:59	Error: 	"Not Found" (404) at link https://themes.webdevia.com/flooring/store-tile/2016/05/09/hello-world-2/root (from https://themes.webdevia.com/flooring/store-tile/2016/05/09/hello-world-2/)
+00:15:59	Warning: 	Moved Permanently for https://themes.webdevia.com/flooring/store-tile/?p=303
+00:15:59	Warning: 	File has moved from https://themes.webdevia.com/flooring/store-tile/?p=303 to https://themes.webdevia.com/flooring/store-tile/2014/08/28/dignissim-phasellus-ultrices-tellus/
+00:15:59	Error: 	"Not Found" (404) at link https://themes.webdevia.com/flooring/store-tile/2014/08/28/dignissim-phasellus-ultrices-tellus/root (from https://themes.webdevia.com/flooring/store-tile/2014/08/28/dignissim-phasellus-ultrices-tellus/)
+00:15:59	Warning: 	Moved Permanently for https://themes.webdevia.com/flooring/store-tile/?p=22
+00:15:59	Warning: 	File has moved from https://themes.webdevia.com/flooring/store-tile/?p=22 to https://themes.webdevia.com/flooring/store-tile/about/
+00:15:59	Error: 	"Not Found" (404) at link https://themes.webdevia.com/flooring/store-tile/category/uncategorized/root (from https://themes.webdevia.com/flooring/store-tile/category/uncategorized/)
+00:15:59	Warning: 	Moved Permanently for https://themes.webdevia.com/flooring/store-tile/?p=305
+00:15:59	Warning: 	File has moved from https://themes.webdevia.com/flooring/store-tile/?p=305 to https://themes.webdevia.com/flooring/store-tile/2014/08/28/aenean-nonummy-hendrerit-mauris/
+00:15:59	Error: 	"Not Found" (404) at link https://themes.webdevia.com/flooring/store-tile/2014/08/28/aenean-nonummy-hendrerit-mauris/root (from https://themes.webdevia.com/flooring/store-tile/2014/08/28/aenean-nonummy-hendrerit-mauris/)
+00:15:59	Warning: 	Moved Permanently for https://themes.webdevia.com/flooring/store-tile/?p=306
+00:15:59	Warning: 	File has moved from https://themes.webdevia.com/flooring/store-tile/?p=306 to https://themes.webdevia.com/flooring/store-tile/2014/08/28/fusce-suscipit-varius-mi-cum-sociis/
+00:15:59	Error: 	"Not Found" (404) at link https://themes.webdevia.com/flooring/store-tile/2014/08/28/fusce-suscipit-varius-mi-cum-sociis/root (from https://themes.webdevia.com/flooring/store-tile/2014/08/28/fusce-suscipit-varius-mi-cum-sociis/)
+00:15:59	Warning: 	Moved Permanently for https://themes.webdevia.com/flooring/store-tile/?p=307
+00:15:59	Warning: 	File has moved from https://themes.webdevia.com/flooring/store-tile/?p=307 to https://themes.webdevia.com/flooring/store-tile/2014/08/28/cum-sociis-natoque-penatibus-et-magnis/
+00:15:59	Error: 	"Not Found" (404) at link https://themes.webdevia.com/flooring/store-tile/2014/08/28/cum-sociis-natoque-penatibus-et-magnis/root (from https://themes.webdevia.com/flooring/store-tile/2014/08/28/cum-sociis-natoque-penatibus-et-magnis/)
+00:15:59	Warning: 	Moved Permanently for https://themes.webdevia.com/flooring/store-tile/?p=282
+00:15:59	Warning: 	File has moved from https://themes.webdevia.com/flooring/store-tile/?p=282 to https://themes.webdevia.com/flooring/store-tile/2014/08/28/massa-eu-blandit/
+00:15:59	Error: 	"Not Found" (404) at link https://themes.webdevia.com/flooring/store-tile/2014/08/28/massa-eu-blandit/root (from https://themes.webdevia.com/flooring/store-tile/2014/08/28/massa-eu-blandit/)
+00:15:59	Error: 	"Not Found" (404) at link https://themes.webdevia.com/flooring/store-tile/2016/08/root (from https://themes.webdevia.com/flooring/store-tile/2016/08/)
+00:15:59	Error: 	"Not Found" (404) at link https://themes.webdevia.com/flooring/store-tile/2016/05/root (from https://themes.webdevia.com/flooring/store-tile/2016/05/)
+00:15:59	Error: 	"Not Found" (404) at link https://themes.webdevia.com/flooring/store-tile/2014/08/root (from https://themes.webdevia.com/flooring/store-tile/2014/08/)
+00:16:13	Warning: 	Moved Permanently for https://themes.webdevia.com/flooring/store-tile/?p=1375
+00:16:13	Warning: 	File has moved from https://themes.webdevia.com/flooring/store-tile/?p=1375 to https://themes.webdevia.com/flooring/store-tile/cart/
+00:16:13	Warning: 	Found for https://themes.webdevia.com/flooring/store-tile/cart/?remove_item=2e0aca891f2a8aedf265edf533a6d9a8&_wpnonce=85a06dc88c
+00:16:13	Warning: 	File has moved from https://themes.webdevia.com/flooring/store-tile/cart/?remove_item=2e0aca891f2a8aedf265edf533a6d9a8&_wpnonce=85a06dc88c to http://themes.webdevia.com/flooring/store-tile/cart/?removed_item=1
+00:16:13	Warning: 	Found for https://themes.webdevia.com/flooring/store-tile/cart/?remove_item=f231f2107df69eab0a3862d50018a9b2&_wpnonce=85a06dc88c
+00:16:13	Warning: 	File has moved from https://themes.webdevia.com/flooring/store-tile/cart/?remove_item=f231f2107df69eab0a3862d50018a9b2&_wpnonce=85a06dc88c to http://themes.webdevia.com/flooring/store-tile/cart/?removed_item=1
+00:16:13	Warning: 	Found for https://themes.webdevia.com/flooring/store-tile/cart/?remove_item=4aec1b3435c52abbdf8334ea0e7141e0&_wpnonce=85a06dc88c
+00:16:13	Warning: 	File has moved from https://themes.webdevia.com/flooring/store-tile/cart/?remove_item=4aec1b3435c52abbdf8334ea0e7141e0&_wpnonce=85a06dc88c to http://themes.webdevia.com/flooring/store-tile/cart/?removed_item=1
+00:16:13	Warning: 	Found for https://themes.webdevia.com/flooring/store-tile/cart/?remove_item=37e7897f62e8d91b1ce60515829ca282&_wpnonce=85a06dc88c
+00:16:13	Warning: 	File has moved from https://themes.webdevia.com/flooring/store-tile/cart/?remove_item=37e7897f62e8d91b1ce60515829ca282&_wpnonce=85a06dc88c to http://themes.webdevia.com/flooring/store-tile/cart/?removed_item=1
+00:16:13	Warning: 	Found for https://themes.webdevia.com/flooring/store-tile/cart/?remove_item=b8b9c74ac526fffbeb2d39ab038d1cd7&_wpnonce=85a06dc88c
+00:16:13	Warning: 	File has moved from https://themes.webdevia.com/flooring/store-tile/cart/?remove_item=b8b9c74ac526fffbeb2d39ab038d1cd7&_wpnonce=85a06dc88c to http://themes.webdevia.com/flooring/store-tile/cart/?removed_item=1
+00:16:13	Warning: 	Found for https://themes.webdevia.com/flooring/store-tile/cart/?remove_item=a57e8915461b83adefb011530b711704&_wpnonce=85a06dc88c
+00:16:13	Warning: 	File has moved from https://themes.webdevia.com/flooring/store-tile/cart/?remove_item=a57e8915461b83adefb011530b711704&_wpnonce=85a06dc88c to http://themes.webdevia.com/flooring/store-tile/cart/?removed_item=1
+00:16:13	Warning: 	Found for https://themes.webdevia.com/flooring/store-tile/cart/?remove_item=7c78335a8924215ea5c22fda1aac7b75&_wpnonce=85a06dc88c
+00:16:13	Warning: 	File has moved from https://themes.webdevia.com/flooring/store-tile/cart/?remove_item=7c78335a8924215ea5c22fda1aac7b75&_wpnonce=85a06dc88c to http://themes.webdevia.com/flooring/store-tile/cart/?removed_item=1
+00:16:13	Warning: 	Found for https://themes.webdevia.com/flooring/store-tile/checkout/
+00:16:13	Warning: 	File has moved from https://themes.webdevia.com/flooring/store-tile/checkout/ to https://themes.webdevia.com/flooring/store-tile/cart/
+00:18:29	Warning: 	Moved Permanently for https://themes.webdevia.com/flooring/store-tile/?p=1377
+00:18:29	Warning: 	File has moved from https://themes.webdevia.com/flooring/store-tile/?p=1377 to https://themes.webdevia.com/flooring/store-tile/my-account/
+00:18:32	Warning: 	Found for https://themes.webdevia.com/flooring/store-tile/cart/?undo_item=2e0aca891f2a8aedf265edf533a6d9a8&_wpnonce=85a06dc88c
+00:18:32	Warning: 	File has moved from https://themes.webdevia.com/flooring/store-tile/cart/?undo_item=2e0aca891f2a8aedf265edf533a6d9a8&_wpnonce=85a06dc88c to http://themes.webdevia.com/flooring/store-tile/product/bathroom-gray/?add-to-cart=3106
+00:18:32	Warning: 	Found for https://themes.webdevia.com/flooring/store-tile/cart/?undo_item=f231f2107df69eab0a3862d50018a9b2&_wpnonce=85a06dc88c
+00:18:32	Warning: 	File has moved from https://themes.webdevia.com/flooring/store-tile/cart/?undo_item=f231f2107df69eab0a3862d50018a9b2&_wpnonce=85a06dc88c to http://themes.webdevia.com/flooring/store-tile/product/bathroom-gray/?add-to-cart=3106
+00:18:32	Warning: 	Found for https://themes.webdevia.com/flooring/store-tile/cart/?undo_item=4aec1b3435c52abbdf8334ea0e7141e0&_wpnonce=85a06dc88c
+00:18:32	Warning: 	File has moved from https://themes.webdevia.com/flooring/store-tile/cart/?undo_item=4aec1b3435c52abbdf8334ea0e7141e0&_wpnonce=85a06dc88c to http://themes.webdevia.com/flooring/store-tile/product/bathroom-gray/?add-to-cart=3106
+00:18:32	Warning: 	Found for https://themes.webdevia.com/flooring/store-tile/cart/?undo_item=37e7897f62e8d91b1ce60515829ca282&_wpnonce=85a06dc88c
+00:18:32	Warning: 	File has moved from https://themes.webdevia.com/flooring/store-tile/cart/?undo_item=37e7897f62e8d91b1ce60515829ca282&_wpnonce=85a06dc88c to http://themes.webdevia.com/flooring/store-tile/product/bathroom-gray/?add-to-cart=3106
+00:18:32	Warning: 	Found for https://themes.webdevia.com/flooring/store-tile/cart/?undo_item=b8b9c74ac526fffbeb2d39ab038d1cd7&_wpnonce=85a06dc88c
+00:18:32	Warning: 	File has moved from https://themes.webdevia.com/flooring/store-tile/cart/?undo_item=b8b9c74ac526fffbeb2d39ab038d1cd7&_wpnonce=85a06dc88c to http://themes.webdevia.com/flooring/store-tile/product/bathroom-gray/?add-to-cart=3106
+00:18:33	Warning: 	Found for https://themes.webdevia.com/flooring/store-tile/cart/?undo_item=a57e8915461b83adefb011530b711704&_wpnonce=85a06dc88c
+00:18:33	Warning: 	File has moved from https://themes.webdevia.com/flooring/store-tile/cart/?undo_item=a57e8915461b83adefb011530b711704&_wpnonce=85a06dc88c to http://themes.webdevia.com/flooring/store-tile/product/bathroom-gray/?add-to-cart=3106
+00:18:33	Warning: 	Found for https://themes.webdevia.com/flooring/store-tile/cart/?undo_item=7c78335a8924215ea5c22fda1aac7b75&_wpnonce=85a06dc88c
+00:18:33	Warning: 	File has moved from https://themes.webdevia.com/flooring/store-tile/cart/?undo_item=7c78335a8924215ea5c22fda1aac7b75&_wpnonce=85a06dc88c to http://themes.webdevia.com/flooring/store-tile/product/bathroom-gray/?add-to-cart=3106
+
+HTTrack Website Copier/3.49-2 mirror complete in 12 minutes 51 seconds : 603 links scanned, 528 files written (24079457 bytes overall) [15113292 bytes received at 19602 bytes/sec], 12919503 bytes transferred using HTTP compression in 359 files, ratio 22%, 16.7 requests per connection
+(23 errors, 102 warnings, 0 messages)
